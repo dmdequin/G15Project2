@@ -1,0 +1,22 @@
+Literature Review
+
+1. Temperature and precipitation associate with Covid-19 new daily cases: 
+A correlation study between weather and Covid-19 pandemic in Oslo, Norway
+
+Link: https://www.sciencedirect.com/science/article/pii/S004896972033179X
+
+2. Effects of Weather on Coronavirus Pandemic
+
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7432279/
+
+3. Record high solar irradiance in Western Europe during first COVID-19 lockdown largely due to unusual weather
+^ This article talks specifically about the Netherlands
+
+Link: https://www.nature.com/articles/s43247-021-00110-0
+
+4. How COVID-19 and the Dutch ‘intelligent lockdown’ change activities, work and travel behaviour: 
+Evidence from longitudinal data in the Netherlands
+^ Not sure if this is applicable but its about the Netherlands
+
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284275/
+
