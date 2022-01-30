@@ -3,9 +3,9 @@
 # First Year Project 2 Group 15
 ## COVID-19 and the Weather, Michele Coscia
 
-We are completing tasks similar to data scientists working for a public health agency, to inform
-central governments about possible correlates between COVID-19 and environmental factors facilitating or
-hampering its spread. We explore the latest data set of all infections in the year 2020 provided by
+This project involves completing tasks similar to data scientists working for a public health agency. The goal
+is to inform central governments about possible correlations between COVID-19 and environmental factors, and whether
+these factors facilitate or hamper its spread. We explore the latest data set of all infections in the year 2020 provided by
 the government, and weather data from the IBM Pairs system.
 
 We explore the data from **The Netherlands**.
