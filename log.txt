@@ -1,449 +1,122 @@
-commit 69e059ad4283e20aba6d18d6e6653844f14fbdcf
+commit d40e2c2a70526244ad79b246ce1590f4609f58bb
 Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Fri Mar 19 12:02:03 2021 +0100
+Date:   Sun Jan 30 11:04:04 2022 +0100
 
-    Nicola is on the spelling!
+    Cleaning Notebook and commenting out savefig
 
-commit f92be7042145a66244b56fbfc8ec2e7e54fbd9e9
+commit 60bec60cf78b22f975a5fdbc3a9e24728d53b575
 Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Fri Mar 19 11:59:41 2021 +0100
+Date:   Sun Jan 30 11:01:25 2022 +0100
 
-    checking everything works.
+    Cleaning Notebook
 
-commit 576c8134a78ee8b0058720b2a30d6db1b30475c6
-Author: NicolaClark <niccl@itu.dk>
-Date:   Fri Mar 19 10:45:01 2021 +0000
-
-    final update
-
-commit 5d8e3e529090adb103303b9a96c96a49b57afa0e
-Author: NicolaClark <niccl@itu.dk>
-Date:   Fri Mar 19 10:35:18 2021 +0000
-
-    Dee just updating clean notebook
-
-commit b321098cce571a519af3a8c430370cf2cc0e5263
-Author: NicolaClark <niccl@itu.dk>
-Date:   Fri Mar 19 09:53:47 2021 +0000
-
-    Updating figure 4
-
-commit 302d9d49273a8f6db7b0c7cfd6f2e6956e229674
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 18 22:22:59 2021 +0000
-
-    Nicola-put 2 graphs on one figure, made scatter and polyfit
-
-commit 669f30bfe6a95fe4bafc54b547e30c579df86f01
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 18 14:29:08 2021 +0000
-
-    all, pushing updated figures to github
-
-commit 3f97a3f76da377c7782236c555d14cca8dd6968d
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Thu Mar 18 13:53:50 2021 +0000
-
-    cleaned graphs, emma
-
-commit c8b882cbf7365567f0b9260eabe856e60778b03c
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 18 10:54:49 2021 +0000
-
-    Dee just updating github
-
-commit 989361a34168f95abdad4f27b863e24b1aed0a40
-Author: NicolaClark <niccl@itu.dk>
-Date:   Wed Mar 17 22:14:45 2021 +0000
-
-    Nicola- barh graph of lockdown restrictions in NL
-
-commit 206d6d35fcc2bf4717d0f3d03988c2ca0d6a8e58
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Tue Mar 16 17:29:03 2021 +0000
-
-     emma cleaned and finished graphs
-
-commit e3d4e6323d30c943dcc0ec17370e1565368f415b
-Author: NicolaClark <niccl@itu.dk>
-Date:   Tue Mar 16 14:56:33 2021 +0000
-
-    Nicola, cleaned up the date labels of a graph
-
-commit f0ccfa795d99fd0e85c91f1185886152b32a1ed8
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Tue Mar 16 14:23:25 2021 +0000
-
-    graphs group work
-
-commit e35b8f193fbb0a9d613a8d53b6b704a244b11ced
-Author: NicolaClark <niccl@itu.dk>
-Date:   Mon Mar 15 18:24:34 2021 +0000
-
-    Danielle fixed task 1 figure
-
-commit 5abab3ad0eadba0bc2a239e25f0f0bcc44f85fa7
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 14 13:01:27 2021 +0000
-
-    Danielle added figure for task 1
-
-commit 825e844dc4d0a92c4e4b1f0356df1eccbd9f40f1
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 14 12:45:16 2021 +0000
-
-    Danielle exported data to a csv
-
-commit 58680950da7bb73ebf2150d58e3affbe583c3560
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 14 12:35:56 2021 +0000
-
-    Danielle integrated external data, and ran statistics again
-
-commit a758061a6c3e60baaddd2d3a8cbb36239502ae8c
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 14 09:43:58 2021 +0000
-
-    fixing merge problem
-
-commit 933ab35d2e62cfe520fd56bb1390e050520bf0b9
+commit 4bb94ae95e8caea73e47ef09ad9e3c96a3a67480
 Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Sun Mar 14 10:06:43 2021 +0100
+Date:   Sun Jan 30 10:55:09 2022 +0100
 
-    Danielle, Statistics update.
+    cleaning notebook
 
-commit ab5223737302d7de483db30c584a15c1402eae9f
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sat Mar 13 19:58:00 2021 +0000
-
-    Karlis changed variables
-
-commit 3e88a363dae8ed410b6b3803aaa091101f7afb42
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sat Mar 13 19:29:24 2021 +0000
-
-    remove outputs
-
-commit caea8c7d78d599c71b01db1ef1919e3dac81763f
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sat Mar 13 19:17:55 2021 +0000
-
-    Kirstine made functions for graph-plotting and getting-values-by-region-with-delay. Made graphs for corona cases and uv-index (two y-axes/unshared) for days per region(UV by delay). Made bar graph for temp.,UV and corona addition for day per region(temp. and UV by delay).
-
-commit 8a1ae924262a9b5f5f4647ef96f37c27d5c4dc3e
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sat Mar 13 12:48:31 2021 +0000
-
-    Kirstine, Emma, Nicola. corrected imports, merged datastes for 1 and 2 week delays, uv choropleth map
-
-commit 96f98f3f6f0bbefa4898876e0cc0cd987f8d7ef1
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sat Mar 13 07:20:07 2021 +0000
-
-    Karlis has mad single and multivariable plots
-
-commit fa52eba4ca39557361c9728e4a42f11d7675d776
-Author: NicolaClark <niccl@itu.dk>
-Date:   Fri Mar 12 15:50:26 2021 +0000
-
-    Danielle finished statistics analysis
-
-commit 060902ae4b36d6b03397f62a213acd7d59ae6f26
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Fri Mar 12 15:25:39 2021 +0000
-
-    group changes
-
-commit 6e51803b385627b4aa656fd87bf790da1420746a
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Fri Mar 12 10:37:57 2021 +0000
-
-    cleaned up graphs made a function - emma
-
-commit b7fb9dd18ed31573d05ab0df2a8691d2d58bb645
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Fri Mar 12 10:25:03 2021 +0000
-
-     graphs done task 0 emma
-
-commit 5242e1255304ab5f4d1cf52421eff69bbfaecd6a
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Fri Mar 12 09:55:27 2021 +0000
-
-    graphs task 0
-
-commit 999888fd6271d5e626dc0df277735866d00d72aa
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Fri Mar 12 05:58:14 2021 +0000
-
-    Just making sure
-
-commit fb9f0c9d3724969637734b6ad581be5b09cd142f
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Fri Mar 12 02:31:31 2021 +0000
-
-    Kirstine made some more cleaning. Sorting out for weather dates.
-
-commit 4cde003510890078387df733b0be4ea37b3fc16a
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Thu Mar 11 23:45:13 2021 +0000
-
-    Made summary on GoogleDocs for tasks that has been made, comments on those, and problems of variables  we should go through.
-
-commit 729d54540ee35655b1b963e91c6ecf47d752c6dd
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Thu Mar 11 21:39:54 2021 +0000
-
-    Changes have been made - but don't know by who
-
-commit f73dc1e3c69527d3d3db2a6a4a47bb7896195709
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Thu Mar 11 17:57:02 2021 +0000
-
-     started graphs, emma
-
-commit 947600ca3d5b70bb63d6603d62abe03f382dbb0f
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 11 12:52:37 2021 +0000
-
-    Danielle cleared outputs and commit
-
-commit 5329a5cc19e68e96aaa36f2bcec4c99f3dcb5dcd
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 11 12:51:34 2021 +0000
-
-    Danielle finished statistical tests
-
-commit b2b946e97f1ea494077adf0dd58ae2c3a0114982
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 11 12:28:47 2021 +0000
-
-    Danielle finished correlation tests
-
-commit fb75d865a1863a5fd29a3edaba52f3747657f4a3
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 11 12:11:36 2021 +0000
-
-    Danielle added statistical tests
-
-commit 98c5093709917e7dbd4a431690780a40aa6e7765
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 11 10:43:09 2021 +0000
-
-    Danielle added sources to the data files
-
-commit 74905f21bb9050569cb3503de22a575e67a321f5
-Author: NicolaClark <niccl@itu.dk>
-Date:   Wed Mar 10 22:36:46 2021 +0000
-
-    nicola added a combined dataframe (weather and corona for nl) and hanged kelvin to celsius
-
-commit 4a7d6a94f980aa6fe646578bb96cff90e76ba041
-Author: NicolaClark <niccl@itu.dk>
-Date:   Tue Mar 9 16:45:22 2021 +0000
-
-    fixed the folium map of NL, Danielle
-
-commit f8438fecdd03210310e2110a698bd9800fd6099c
-Author: NicolaClark <niccl@itu.dk>
-Date:   Tue Mar 9 14:44:31 2021 +0000
-
-    Danielle, updating variables
-
-commit bb82c4c0f279634293a001bb7193eb4df87ed0e6
-Author: NicolaClark <niccl@itu.dk>
-Date:   Tue Mar 9 13:52:03 2021 +0000
-
-    we all fixed the brabant issue
-
-commit 486a83d4ee3e045bdb190f0ce3bfde7957d69908
-Author: NicolaClark <niccl@itu.dk>
-Date:   Tue Mar 9 13:23:05 2021 +0000
-
-    Danielle loaded new weather data and concat dataframes
-
-commit a031cf56e50e9c3b3e4ceee877f329e12fbcaa4d
+commit eca2b132c297edb6d33b58cac3aaae1f6bc3e311
 Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 9 13:33:49 2021 +0100
-
-    extension of weather data
-    
-    this is an extension of the weather data that ends at the same time as the corona data, in February.
-
-commit 9730f74b769559eb0fd74b47c812bc81ba380126
-Author: emmawbisgaard <emmawbisgaard@gmail.com>
-Date:   Tue Mar 9 08:51:14 2021 +0000
-
-    started five number summary, emma
-
-commit 4c5a79c2b64fae62e452f40f0c7e80e0cffcb65f
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sun Mar 7 15:41:58 2021 +0000
-
-    Kirstine and Nicola added three choropleth maps of population, covid-cases, and cases per mille population.
-
-commit 7dcf472d8611b2860c7232d02fd5ba4cd48e4b51
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sun Mar 7 13:22:23 2021 +0000
-
-    Kirstine just practiced github
-
-commit f5fc4e170b4174d5ea6a99d2a4f59f5a7b677c32
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sun Mar 7 12:58:32 2021 +0000
-
-    Kirstine tested
-
-commit 7fb8ad7e40ab8da16c964bd446fc1b852f2c6173
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 7 10:39:17 2021 +0000
-
-    Danielle cleaned up after working and added comments
-
-commit 5558e83ee7d1f860fb497b0f17841d55cf3ca0e9
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 7 10:32:18 2021 +0000
-
-    Danielle, mapping corona data to metadata
-
-commit 2481dd8a79f8ddf7a7b0685bde2e56819611a74d
-Author: NicolaClark <niccl@itu.dk>
-Date:   Sun Mar 7 08:59:26 2021 +0000
-
-    Danielle added summaries and explanations of code
-
-commit 931aa8f9b8183def2168126e87083f24225662f1
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Sun Mar 7 04:47:36 2021 +0000
-
-    Data cleaning by dates
-
-commit 455b46ff6c5deea9e3eced5aaba2fc01e9f04819
-Author: NicolaClark <niccl@itu.dk>
-Date:   Fri Mar 5 14:42:58 2021 +0000
-
-    new files by emma
-
-commit 19efde4a12ce31fd81f792f1958380d473a90e83
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Fri Mar 5 14:37:17 2021 +0000
-
-    Just patched maps
-
-commit a1eb9acca2ad664db645e614efcd2ac096fcb825
-Author: Gizzbow <buiko.kar@gmail.com>
-Date:   Fri Mar 5 08:38:18 2021 +0000
-
-    Karlis did folium
-
-commit f48f0ffe19017c5d3396172bd0c17c39e0f87423
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 4 20:13:37 2021 +0000
-
-    test
-
-commit e155cdfe6884637194fbe3d3f9ec726e229d5f3b
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 4 12:15:33 2021 +0000
-
-    Dee and Nicola loading data and beginning to clean, mainly ex.1/task 0
-
-commit ae196b53d561224979d1effefc4ef66a7d5dd099
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 4 10:37:31 2021 +0000
-
-    Nicola and Dee on notebook
-
-commit 91bb4ddd8d9b0cf8f34323d0cc1663f6c3714e1c
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 4 10:11:12 2021 +0000
-
-    Dee added to readme
-
-commit 45e9dda78676a1d5ce14dc0b69414bc4bcb57fb9
-Merge: caca6cd 2a049c4
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 4 10:08:23 2021 +0000
-
-    conflict resolution
-
-commit caca6cdd26d9f6fc6232f15f5f2a940626b00694
-Author: NicolaClark <niccl@itu.dk>
-Date:   Thu Mar 4 09:53:31 2021 +0000
-
-    deleted unnecessary notebook
-
-commit 2a049c448c90d017d8ca9ab640410c1d6806b913
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Thu Mar 4 10:53:18 2021 +0100
-
-    intro first cell.
-
-commit 3572b954150fe074a401be5b43b7fe6a29bae8b5
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Thu Mar 4 10:35:33 2021 +0100
+Date:   Sun Jan 30 10:44:37 2022 +0100
 
     Update README.md
 
-commit 440e6a8e0c439751b75b6bc393a5bb6c9782e56c
+commit c6a904d3ba09ea62b6a3aa3ddcf1b61843c1424b
 Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Thu Mar 4 10:34:13 2021 +0100
+Date:   Sat Jan 8 21:36:10 2022 +0100
+
+    cleaning repository
+
+commit 5f3b33ba4edda2bfd083f97be1c39c915425af88
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:52:09 2021 +0100
+
+    Add files via upload
+
+commit bf64e4b1f81dc13aa405dfdcfabaa0a4099ba2e2
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:51:38 2021 +0100
+
+    Add files via upload
+
+commit cb020e7086f7fd466057669911c07cdef0814ac6
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:51:20 2021 +0100
+
+    Create .gitkeep
+
+commit f539053f058e1851fd56da9eced4c29df22d7a06
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:50:50 2021 +0100
+
+    Add files via upload
+
+commit 5e4a146db41ca7c197782ee719db32f37e99cd7c
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:50:40 2021 +0100
+
+    Create .gitkeep
+
+commit c0bbda7dafc64f0fe31994d45d67fae4c4cc9330
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:50:09 2021 +0100
+
+    Add files via upload
+
+commit 87aab421f6b5f7ac386fce505c715efa8e118567
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:49:56 2021 +0100
+
+    Create .gitkeep
+
+commit ae4a5e507137b3740b82924f3d21df3abefe1bde
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:49:30 2021 +0100
+
+    Add files via upload
+
+commit 09a1b485c06cc2b08cdc397dd8cf0198a5dde964
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:49:13 2021 +0100
+
+    Create .gitkeep
+
+commit 40a01403bc6a78a74845d359bbe4c8110479ac8c
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:48:27 2021 +0100
+
+    Add files via upload
+
+commit 5c38d08684b556a12436714ae475eec6907523b6
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:48:05 2021 +0100
+
+    Add files via upload
+
+commit c5a6f5fd2e0cc4a6b740dc96e9b8d3fa59583ef9
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:47:36 2021 +0100
+
+    Add files via upload
+
+commit cf9428a0e523a2784d2ccc25776ffc9f59fdfbfc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:47:05 2021 +0100
+
+    Add files via upload
+
+commit d6ba35292726035e9e992047c671c418d57cb25d
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:46:39 2021 +0100
+
+    Add files via upload
+
+commit f1d656539ed965b73d422495a7083a9982a8b0cc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Mar 26 10:45:36 2021 +0100
 
     Update README.md
-
-commit d7225829637134e370bec258dc3ff68fe7b0d391
-Author: NicolaClark <niccl@itu.dk>
-Date:   Tue Mar 2 16:52:33 2021 +0000
-
-    test
-
-commit cef7b733a5585769845682ea5f17e558626fe445
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:46:32 2021 +0100
-
-    Add files via upload
-
-commit 4a4ed01a42aacf8b833f94e7dd2355051590d391
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:46:24 2021 +0100
-
-    Create .gitkeep
-
-commit ba870f0e6a64dd91103bdffd9da8375b38aa3383
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:46:03 2021 +0100
-
-    Add files via upload
-
-commit c0ff5cfae741a4a92c7d0f8fd388397308218554
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:45:53 2021 +0100
-
-    Create .gitkeep
-
-commit 86968eb462fbac0939e369d6adedd8b397d9a50b
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:45:27 2021 +0100
-
-    Add files via upload
-
-commit 29363bd61201a0e25c65c6bcf5ba4404c3e5a58a
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:45:12 2021 +0100
-
-    Create .gitkeep
-
-commit b5710b439854f5a360e213b8b14a887d2395794c
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:43:39 2021 +0100
-
-    Add files via upload
-
-commit 5eb1ccd83bf9c5ab107faa979d2dacce7e1870d6
-Author: Danielle <62339718+dmdequin@users.noreply.github.com>
-Date:   Tue Mar 2 17:43:24 2021 +0100
-
-    Create .gitkeep
 
 commit 4831652d815ff5fcc0f7dc50c8ef72e9a24b73f4
 Author: NicolaClark <78803703+NicolaClark@users.noreply.github.com>
